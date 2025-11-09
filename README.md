@@ -35,21 +35,23 @@ Apenas:
 
 ---
 
-## 🚀 Como executar
-1. Instale o Python 3.10+  
-2. Instale o PgZero:
-   ```bash
-   pip install pgzero
-3.Execute o jogo:
-    ```bash
-    pgzrun game.py
-
----
-
 ## 🗂️ Estrutura
+```
 game/
 ├── main.py
 ├── images/
 ├── sounds/
 ├── music/
 └── README.md
+```
+---
+
+## 🚀 Como executar
+1. Instale o Python 3.10+
+2. Instale o PgZero:
+   ```bash
+   pip install pgzero
+3. Execute o jogo:
+   ```bash
+    pgzrun main.py
+
